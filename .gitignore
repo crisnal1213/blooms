@@ -1,2 +1,3 @@
-# 本機同步工具，不上傳
+# 本機工具，不上傳
 sync.sh
+make_bookmarks.py

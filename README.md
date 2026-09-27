@@ -4,7 +4,7 @@
 
 本倉庫存放「菇點」明信片座標資料，供 App 使用者下載匯入。
 
-- `default_bookmarks.json`：內建預設書籤資料（目前 46 筆），格式與 App 的 `BackupCodec` 相容，可直接下載匯入使用。
+- `default_bookmarks.json`：內建預設書籤資料，格式與 App 的 `BackupCodec` 相容，可直接下載匯入使用。
 - `postcard_bookmarks.json`：預留檔案（目前為空）。
 
 ## 資料來源
