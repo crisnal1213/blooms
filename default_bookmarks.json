@@ -1,0 +1,697 @@
+{
+  "schemaVersion": 1,
+  "exportedAt": 0,
+  "books": [
+    {
+      "id": "default-mushroom-001",
+      "name": "瑞士河畔建築",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 46.204314,
+          "lng": 6.135961
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；瑞士"
+    },
+    {
+      "id": "default-mushroom-002",
+      "name": "冰島美片",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 63.420564,
+          "lng": -19.002892
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；冰島"
+    },
+    {
+      "id": "default-mushroom-003",
+      "name": "玉兔月亮",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 37.645593,
+          "lng": 126.696586
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；韓國"
+    },
+    {
+      "id": "default-mushroom-004",
+      "name": "搗藥的兔子們",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 36.566167,
+          "lng": 128.737639
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；韓國"
+    },
+    {
+      "id": "default-mushroom-005",
+      "name": "滿月",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 37.574611,
+          "lng": 126.744611
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；韓國"
+    },
+    {
+      "id": "default-mushroom-006",
+      "name": "許願兔",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 34.399909,
+          "lng": 126.32621
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；韓國"
+    },
+    {
+      "id": "default-mushroom-007",
+      "name": "超級大月球",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 37.281192,
+          "lng": 127.018668
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；韓國"
+    },
+    {
+      "id": "default-mushroom-008",
+      "name": "藍色月亮",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 35.06063,
+          "lng": 129.08078
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；韓國"
+    },
+    {
+      "id": "default-mushroom-009",
+      "name": "耿鬼月亮",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 22.414297,
+          "lng": -97.912493
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；美國"
+    },
+    {
+      "id": "default-mushroom-010",
+      "name": "月亮城堡",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 40.905732,
+          "lng": 25.901206
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；希臘"
+    },
+    {
+      "id": "default-mushroom-011",
+      "name": "日本櫻花菇點",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 35.963278,
+          "lng": 140.643962
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "default-mushroom-012",
+      "name": "紀念碑",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 33.6934,
+          "lng": 73.0683
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；印度"
+    },
+    {
+      "id": "default-mushroom-013",
+      "name": "貓咪7-11",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 23.709006,
+          "lng": 120.530509
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；台灣 斗六"
+    },
+    {
+      "id": "default-mushroom-014",
+      "name": "活動菇",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 31.423208,
+          "lng": 130.523727
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "default-mushroom-015",
+      "name": "澳洲碉堡炮台",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": -33.95856,
+          "lng": 151.264363
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；澳洲"
+    },
+    {
+      "id": "default-mushroom-016",
+      "name": "岡山櫻花蘑菇休息的地方",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 34.541951,
+          "lng": 133.787048
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本 岡山"
+    },
+    {
+      "id": "default-mushroom-017",
+      "name": "挪威海邊黃昏",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 60.614077,
+          "lng": 5.10202
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；挪威"
+    },
+    {
+      "id": "default-mushroom-018",
+      "name": "伯斯藍色小屋",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": -31.973479,
+          "lng": 115.82654
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；澳洲 伯斯"
+    },
+    {
+      "id": "default-mushroom-019",
+      "name": "馴鹿雪地",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 39.61041,
+          "lng": -105.967226
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；美國；雪地上的兩隻馴鹿"
+    },
+    {
+      "id": "default-mushroom-020",
+      "name": "七彩幾何",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 35.704326,
+          "lng": 139.754332
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "default-mushroom-021",
+      "name": "moti mahal palace",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 27.215976,
+          "lng": 77.535952
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；印度"
+    },
+    {
+      "id": "default-mushroom-022",
+      "name": "南港霸王龍",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 25.052554,
+          "lng": 121.605255
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；台灣"
+    },
+    {
+      "id": "default-mushroom-023",
+      "name": "Jaswant Thada",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 26.304399,
+          "lng": 73.025259
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；印度；白色陵墓，縱深感與色彩對比完整"
+    },
+    {
+      "id": "default-mushroom-024",
+      "name": "小小兵壯漢",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 17.06415,
+          "lng": -96.702267
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；墨西哥"
+    },
+    {
+      "id": "default-mushroom-025",
+      "name": "瓶蓋工廠",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 25.053371,
+          "lng": 121.605033
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；台灣"
+    },
+    {
+      "id": "default-mushroom-026",
+      "name": "部落圖騰柱",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 22.294664,
+          "lng": 120.881206
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；台灣；臺東 達仁鄉 安朔村"
+    },
+    {
+      "id": "default-mushroom-027",
+      "name": "高雄大魯閣摩天輪",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 22.584072,
+          "lng": 120.329202
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；台灣；在SKM Park Outlets 高雄草衙裡面的鈴鹿賽道樂園摩天輪"
+    },
+    {
+      "id": "default-mushroom-028",
+      "name": "故宮南院鑑古鑠金",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 23.475495,
+          "lng": 120.291513
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；台灣；嘉義國立故宮博物院南部院區"
+    },
+    {
+      "id": "default-mushroom-029",
+      "name": "京城阿波羅",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 22.634378,
+          "lng": 120.308919
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；台灣；知名在地社區大樓「京城阿波羅」的中庭裝飾與地標印象"
+    },
+    {
+      "id": "default-mushroom-030",
+      "name": "逍遙園書齋",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 22.631955,
+          "lng": 120.309704
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；台灣；逍遙園二樓的書齋空間，市松紋樣牆面"
+    },
+    {
+      "id": "default-mushroom-031",
+      "name": "斯瓦爾巴種子庫",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 78.2356,
+          "lng": 15.4914
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；挪威；全世界各地的種子儲存地"
+    },
+    {
+      "id": "default-mushroom-032",
+      "name": "維尼",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 48.875128,
+          "lng": 2.78669
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；法國"
+    },
+    {
+      "id": "default-mushroom-033",
+      "name": "澳洲海邊藍色小房屋",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": -31.973523,
+          "lng": 115.82657
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；澳洲；藍色小房屋"
+    },
+    {
+      "id": "default-mushroom-034",
+      "name": "伊瓜蘇瀑布彩虹",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": -25.681209,
+          "lng": -54.446849
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；阿根廷"
+    },
+    {
+      "id": "default-mushroom-035",
+      "name": "胡迪",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 48.866653,
+          "lng": 2.777272
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；法國"
+    },
+    {
+      "id": "default-mushroom-036",
+      "name": "雪山景色",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": -45.055811,
+          "lng": 168.8151
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；紐西蘭/新西兰"
+    },
+    {
+      "id": "default-mushroom-037",
+      "name": "安地斯山脈湖景",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": -42.892979,
+          "lng": -71.355181
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；阿根廷"
+    },
+    {
+      "id": "default-mushroom-038",
+      "name": "菲律賓漂亮海景",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 11.208287,
+          "lng": 119.378149
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；菲律賓"
+    },
+    {
+      "id": "default-mushroom-039",
+      "name": "菲律賓漂亮海景",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 11.174467,
+          "lng": 119.288937
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；菲律賓"
+    },
+    {
+      "id": "default-mushroom-040",
+      "name": "米奇與朋友",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 41.854842,
+          "lng": 12.450579
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；義大利"
+    },
+    {
+      "id": "default-mushroom-041",
+      "name": "Bridge to nothing",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 58.953576,
+          "lng": 5.757366
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；挪威"
+    },
+    {
+      "id": "default-mushroom-042",
+      "name": "冰島火口湖",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 64.041469,
+          "lng": -20.884112
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；冰岛/冰島"
+    },
+    {
+      "id": "default-mushroom-043",
+      "name": "Perfect day 壁畫",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 28.408128,
+          "lng": -80.612428
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；美國"
+    },
+    {
+      "id": "default-mushroom-044",
+      "name": "米妮",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 28.414243,
+          "lng": -80.629913
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；美國"
+    },
+    {
+      "id": "default-mushroom-045",
+      "name": "富士山人孔蓋",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 35.523373,
+          "lng": 138.768107
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "default-mushroom-046",
+      "name": "富士山",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 35.52276,
+          "lng": 138.752012
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    }
+  ]
+}
+
