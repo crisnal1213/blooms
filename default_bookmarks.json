@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": 1790497797,
+  "exportedAt": 1791054007,
   "books": [
     {
       "id": "default-mushroom-001",
@@ -1786,6 +1786,231 @@
         "postcard"
       ],
       "note": "菇點；美国;美國"
+    },
+    {
+      "id": "talllkai-568",
+      "name": "富士山 (La Vista 富士河口湖飯店前展望台)",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 35.529604,
+          "lng": 138.763184
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "talllkai-562",
+      "name": "加茂的大樟樹",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 34.041045,
+          "lng": 133.932194
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "talllkai-560",
+      "name": "紅色木雕龍蝦",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 44.491806,
+          "lng": -63.91861
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；加拿大"
+    },
+    {
+      "id": "talllkai-556",
+      "name": "藍寶堅尼博物館",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 44.659143,
+          "lng": 11.125861
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；意大利;義大利"
+    },
+    {
+      "id": "talllkai-552",
+      "name": "老港口懸崖海景",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 64.751441,
+          "lng": -23.644304
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；冰岛 / 冰島"
+    },
+    {
+      "id": "talllkai-546",
+      "name": "巨大熊本熊",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 32.528345,
+          "lng": 130.538779
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "talllkai-543",
+      "name": "長岡慎山八幡宮",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 37.481528,
+          "lng": 138.84018
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "talllkai-542",
+      "name": "富士山遙拝所",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 35.534793,
+          "lng": 138.777847
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "talllkai-540",
+      "name": "天空の鳥居",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 34.50326,
+          "lng": 133.947141
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "talllkai-538",
+      "name": "赫格拉",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 26.774135,
+          "lng": 37.961218
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；沙特阿拉伯"
+    },
+    {
+      "id": "talllkai-537",
+      "name": "電子基準点",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 35.360628,
+          "lng": 138.727363
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "talllkai-525",
+      "name": "草間彌生-橘色南瓜",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 39.755668,
+          "lng": 140.099424
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；日本"
+    },
+    {
+      "id": "talllkai-522",
+      "name": "《摩訶婆羅多》神話浮雕",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 27.175015,
+          "lng": 78.042156
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；印度"
+    },
+    {
+      "id": "talllkai-519",
+      "name": "台南安南區-十二佃水月公園",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 23.060479,
+          "lng": 120.191096
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；台灣"
+    },
+    {
+      "id": "talllkai-515",
+      "name": "雪景",
+      "type": "SINGLE",
+      "points": [
+        {
+          "lat": 51.079392,
+          "lng": -115.381774
+        }
+      ],
+      "categories": [
+        "postcard"
+      ],
+      "note": "菇點；加拿大"
     }
   ]
 }
